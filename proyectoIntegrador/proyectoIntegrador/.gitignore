@@ -1,0 +1,12 @@
+target/
+.idea/
+.bsp/
+.metals/
+.bloop/
+out/
+
+*.csv
+src/main/resources/data/
+
+.DS_Store
+Thumbs.db
