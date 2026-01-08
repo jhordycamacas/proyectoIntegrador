@@ -12,7 +12,7 @@ import io.circe.generic.auto.*
 import io.circe.syntax.*
 import models.Crew
 
-object Avance2 extends App {
+object Avance2Circe extends App {
 
   val ruta = "src/main/resources/data/pi-movies-complete-2025-12-04.csv"
 
